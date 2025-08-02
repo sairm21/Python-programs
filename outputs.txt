@@ -1,0 +1,2 @@
+Hello world
+This file is created opened and writen automatically by python open() functions
